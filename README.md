@@ -1,6 +1,23 @@
-<<<<<<< HEAD
-# Task-me-
-=======
-# Task-Me
->>>>>>> c36d0ef9b00c6d27077185821120293a2d7de53a
-A Task Management System where admins assign tasks and users complete them, providing a simple way to track work, monitor progress, and ensure efficient task completion.
+⭐ TaskMe – Smart Task Management System
+
+TaskMe is a simple and powerful task management platform where Admin assigns tasks and Users complete them with AI-generated tasks, progress tracking, and clean UI.
+
+🚀 Features
+
+Admin & User login
+
+Create, assign, and manage tasks
+
+AI task generator (Python, Java, Full-Stack, etc.)
+
+Quiz & written tasks
+
+Submit tasks with time/date tracking
+
+Task status: Pending / Completed
+
+Modern, responsive UI
+
+🔧 Tech Stack
+
+Node.js, Express, MongoDB, HTML, CSS, JavaScript
